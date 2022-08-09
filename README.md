@@ -9,8 +9,10 @@
 🎬 &nbsp;I like the cinema.\
 📚 &nbsp;I like reading.\
 ✉️ &nbsp;My email: rafaelcliveguitar@gmail.com.
+&nbsp;&nbsp;
 
 <img alt="Coding" src="./assets/Coding.gif" align="right"/>
+&nbsp;&nbsp;
 
 
 
@@ -45,8 +47,8 @@
 
 <p align="center">
 <a href="https://github.com/RafaelChocoj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelChocoj&count_private=true&show_icons=true&hide=contribs,stars&theme=synthwave&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RafaelChocoj&layout=compact&langs_count=8&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelChocoj&count_private=true&show_icons=true&hide=contribs,stars&theme=vue-dark&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RafaelChocoj&layout=compact&langs_count=20&theme=vue-dark"/>
 </a>
 </p>
 
